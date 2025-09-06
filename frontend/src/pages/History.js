@@ -107,21 +107,21 @@ const mockHistoryData = [
   {
     id: 1,
     currency: 'Indian Rupee',
-    value: '500',
+    value: '50',
     date: '25 Mar 2025',
     time: '14:30'
   },
   {
     id: 2,
     currency: 'Indian Rupee',
-    value: '2000',
+    value: '500',
     date: '24 Mar 2025',
     time: '11:15'
   },
   {
     id: 3,
     currency: 'Indian Rupee',
-    value: '100',
+    value: '2000',
     date: '23 Mar 2025',
     time: '18:45'
   },
