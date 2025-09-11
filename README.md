@@ -109,4 +109,3 @@ We welcome contributions from developers, designers, and accessibility advocates
 
 > **VisionAI Project**  
 > _AI for accessibility. AI for independence._
-AIzaSyBE9q0VWDW3uo5sk-wPcczn8r8OBnm5oBc
